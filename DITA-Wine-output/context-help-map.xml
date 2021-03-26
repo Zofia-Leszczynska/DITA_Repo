@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c_who_is_this_guide_for"
+               path="topics/c_who_is_this_guide_for.html"/>
+   <appContext helpID="c_what_is_wine" path="topics/c_what_is_wine.html"/>
+   <appContext helpID="c_history_of_wine" path="topics/c_history_of_wine.html"/>
+   <appContext helpID="c_the_role_of_wine_in_culture"
+               path="topics/c_the_role_of_wine_in_culture.html"/>
+   <appContext helpID="t_harvesting_the_fruit"
+               path="topics/t_harvesting_the_fruit.html"/>
+   <appContext helpID="t_preparing_the_mash" path="topics/t_preparing_the_mash.html"/>
+   <appContext helpID="t_fermentation" path="topics/t_fermentation.html"/>
+   <appContext helpID="r_equipment_list" path="topics/r_equipment_list.html"/>
+   <appContext helpID="r_types_of_corks" path="topics/r_types_of_corks.html"/>
+   <appContext helpID="r_types_of_yeast" path="topics/r_types_of_yeast.html"/>
+</map>
